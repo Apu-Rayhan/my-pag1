@@ -1,2 +1,2 @@
 # my-pag1
-no think
+ https://apu-rayhan.github.io/my-pag1/
